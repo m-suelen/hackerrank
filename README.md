@@ -1,3 +1,3 @@
-# Exercícios HackerHank Python
+# Exercícios HackerRank Python
 
-Exercícios resolvidos da plataforma HackerHank para treinar o aprendizado em Python. 
+Exercícios resolvidos da plataforma HackerRank para treinar o aprendizado em Python. 
