@@ -1,3 +1,3 @@
 # Exercícios HackerRank Python
 
-Exercícios resolvidos da plataforma HackerRank para treinar o aprendizado em Python. 
+Exercícios básicos resolvidos da plataforma HackerRank para treinar o aprendizado em Python. 
